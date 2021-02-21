@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ContextAndHookApp/static/css/main.df6193e9.chunk.css",
+    "main.js": "/ContextAndHookApp/static/js/main.b46f2b74.chunk.js",
+    "main.js.map": "/ContextAndHookApp/static/js/main.b46f2b74.chunk.js.map",
+    "runtime-main.js": "/ContextAndHookApp/static/js/runtime-main.4d571b1d.js",
+    "runtime-main.js.map": "/ContextAndHookApp/static/js/runtime-main.4d571b1d.js.map",
+    "static/js/2.d80029e6.chunk.js": "/ContextAndHookApp/static/js/2.d80029e6.chunk.js",
+    "static/js/2.d80029e6.chunk.js.map": "/ContextAndHookApp/static/js/2.d80029e6.chunk.js.map",
+    "static/js/3.c8adfd8c.chunk.js": "/ContextAndHookApp/static/js/3.c8adfd8c.chunk.js",
+    "static/js/3.c8adfd8c.chunk.js.map": "/ContextAndHookApp/static/js/3.c8adfd8c.chunk.js.map",
+    "index.html": "/ContextAndHookApp/index.html",
+    "static/css/main.df6193e9.chunk.css.map": "/ContextAndHookApp/static/css/main.df6193e9.chunk.css.map",
+    "static/js/2.d80029e6.chunk.js.LICENSE.txt": "/ContextAndHookApp/static/js/2.d80029e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d571b1d.js",
+    "static/js/2.d80029e6.chunk.js",
+    "static/css/main.df6193e9.chunk.css",
+    "static/js/main.b46f2b74.chunk.js"
+  ]
+}
